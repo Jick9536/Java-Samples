@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=newValue
+comment0.target=void\ changeCadence(int)
+comment1.params=newValue
+comment1.target=void\ changeGear(int)
+comment2.params=increment
+comment2.target=void\ speedUp(int)
+comment3.params=decrement
+comment3.target=void\ applyBrakes(int)
+comment4.params=
+comment4.target=void\ printStates()
+numComments=5

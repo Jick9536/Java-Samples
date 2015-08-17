@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=game()
+comment0.text=\n\ Default\ Constructor\ for\ objects\ of\ class\ game\n
+comment1.params=Nname\ Nprice\ units\ Nplatform
+comment1.target=game(java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.text=\n\ \ Variable\ constructor\ for\ objects\ of\ class\ game\n\ \ \n\ \ @param\ Nprice\ price\ per\ unit\n\ \ @param\ units\ number\ of\ prodcuts\ avaiable\n\ \ @param\ Nname\ name\ of\ the\ prodcut\n\ \ @param\ Narist\ name\ of\ the\ platform\n
+comment2.params=
+comment2.target=void\ printinfo()
+comment2.text=Print\ info\ related\ to\ one\ game*
+comment3.params=days
+comment3.target=double\ rent(int)
+comment3.text=\n\ Rent\ a\ game\n\ \n\ @param\ days\ number\ of\ renting\ days\n
+numComments=4

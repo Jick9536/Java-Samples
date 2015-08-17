@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=parent\ modal
+comment0.target=win(java.awt.Frame,\ boolean)
+comment0.text=\n\ Creates\ new\ form\ win\n
+comment1.params=
+comment1.target=void\ initComponents()
+comment1.text=\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\n\ regenerated\ by\ the\ Form\ Editor.\n
+comment2.params=evt
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=evt
+comment3.target=void\ jButton1MouseClicked(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=void\ int_dialog()
+comment4.text=\n\ @param\ args\ the\ command\ line\ arguments\n
+comment5.params=
+comment5.target=void\ run()
+comment6.params=e
+comment6.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=7

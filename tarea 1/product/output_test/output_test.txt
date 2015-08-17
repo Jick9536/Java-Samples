@@ -1,0 +1,384 @@
+Name: God
+ platform: ps3
+ Price per unit: 5.0
+Product aviable: 5.0
+
+
+Name: time goes by
+ artist: pretender
+ Price per unit: 40.0
+Product aviable: 6.0
+
+
+Name: The godfather
+ genre: Action
+ Price per unit: 5.0
+Product aviable: 4.0
+
+
+
+Buy test
+
+
+Buy 7 games, one by one, when you have 5
+
+purchase made successfully with a cost of 5.0
+totalcost game: 1
+availability: 4.0
+purchase made successfully with a cost of 5.0
+totalcost game: 2
+availability: 3.0
+purchase made successfully with a cost of 5.0
+totalcost game: 3
+availability: 2.0
+purchase made successfully with a cost of 5.0
+totalcost game: 4
+availability: 1.0
+purchase made successfully with a cost of 5.0
+totalcost game: 5
+availability: 0.0
+Insufficient units to make your purchase
+totalcost game: 5
+availability: 0.0
+Insufficient units to make your purchase
+totalcost game: 5
+availability: 0.0
+
+Buy 7 games, all together, when you have 5
+
+insufficient units to make your purchase
+
+Buy 4 games, all together, when you have 5
+
+purchase made successfully with a cost of 20.0
+
+Buy 7 albums, one by one, when you have 6
+
+purchase made successfully with a cost of 40.0
+totalcost album: 1
+availability: 5.0
+purchase made successfully with a cost of 40.0
+totalcost album: 2
+availability: 4.0
+purchase made successfully with a cost of 40.0
+totalcost album: 3
+availability: 3.0
+purchase made successfully with a cost of 40.0
+totalcost album: 4
+availability: 2.0
+purchase made successfully with a cost of 40.0
+totalcost album: 5
+availability: 1.0
+purchase made successfully with a cost of 40.0
+totalcost album: 6
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 6
+availability: 0.0
+
+Buy 7 albums, all together, when you have 4
+
+insufficient units to make your purchase
+
+Buy 4 albums, all together, when you have 6
+
+purchase made successfully with a cost of 160.0
+
+Buy 7 movies, one by one, when you have 4
+
+purchase made successfully with a cost of 5.0
+totalcost album: 1
+availability: 3.0
+purchase made successfully with a cost of 5.0
+totalcost album: 2
+availability: 2.0
+purchase made successfully with a cost of 5.0
+totalcost album: 3
+availability: 1.0
+purchase made successfully with a cost of 5.0
+totalcost album: 4
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 4
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 4
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 4
+availability: 0.0
+
+Buy 7 movies, all together, when you have 4
+
+insufficient units to make your purchase
+
+Buy 4 movies, all together, when you have 4
+
+purchase made successfully with a cost of 20.0
+
+Rent test
+
+
+Games: Rent 7 times but you have 5 only  
+
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 1
+availability: 4.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 2
+availability: 3.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 3
+availability: 2.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 4
+availability: 1.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 5
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 5
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 5
+availability: 0.0
+
+Albums: Rent 7 times but you have 6 only 
+
+purchase made successfully with a cost of28.0
+totalcost game: 1
+availability: 5.0
+purchase made successfully with a cost of28.0
+totalcost game: 2
+availability: 4.0
+purchase made successfully with a cost of28.0
+totalcost game: 3
+availability: 3.0
+purchase made successfully with a cost of28.0
+totalcost game: 4
+availability: 2.0
+purchase made successfully with a cost of28.0
+totalcost game: 5
+availability: 1.0
+purchase made successfully with a cost of28.0
+totalcost game: 6
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 6
+availability: 0.0
+
+Movies: Rent 7 times but you have 4 only 
+
+purchase made successfully with a cost of0.2
+totalcost game: 1
+availability: 3.0
+purchase made successfully with a cost of0.2
+totalcost game: 2
+availability: 2.0
+purchase made successfully with a cost of0.2
+totalcost game: 3
+availability: 1.0
+purchase made successfully with a cost of0.2
+totalcost game: 4
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 4
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 4
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 4
+availability: 0.0
+Name: God
+ platform: ps3
+ Price per unit: 5.0
+Product aviable: 5.0
+
+
+Name: time goes by
+ artist: pretender
+ Price per unit: 40.0
+Product aviable: 6.0
+
+
+Name: The godfather
+ genre: Action
+ Price per unit: 5.0
+Product aviable: 4.0
+
+
+
+Buy test
+
+
+Buy 7 games, one by one, when you have 5
+
+purchase made successfully with a cost of 5.0
+totalcost game: 1
+availability: 4.0
+purchase made successfully with a cost of 5.0
+totalcost game: 2
+availability: 3.0
+purchase made successfully with a cost of 5.0
+totalcost game: 3
+availability: 2.0
+purchase made successfully with a cost of 5.0
+totalcost game: 4
+availability: 1.0
+purchase made successfully with a cost of 5.0
+totalcost game: 5
+availability: 0.0
+Insufficient units to make your purchase
+totalcost game: 5
+availability: 0.0
+Insufficient units to make your purchase
+totalcost game: 5
+availability: 0.0
+
+Buy 7 games, all together, when you have 5
+
+insufficient units to make your purchase
+
+Buy 4 games, all together, when you have 5
+
+purchase made successfully with a cost of 20.0
+
+Buy 7 albums, one by one, when you have 6
+
+purchase made successfully with a cost of 40.0
+totalcost album: 1
+availability: 5.0
+purchase made successfully with a cost of 40.0
+totalcost album: 2
+availability: 4.0
+purchase made successfully with a cost of 40.0
+totalcost album: 3
+availability: 3.0
+purchase made successfully with a cost of 40.0
+totalcost album: 4
+availability: 2.0
+purchase made successfully with a cost of 40.0
+totalcost album: 5
+availability: 1.0
+purchase made successfully with a cost of 40.0
+totalcost album: 6
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 6
+availability: 0.0
+
+Buy 7 albums, all together, when you have 4
+
+insufficient units to make your purchase
+
+Buy 4 albums, all together, when you have 6
+
+purchase made successfully with a cost of 160.0
+
+Buy 7 movies, one by one, when you have 4
+
+purchase made successfully with a cost of 5.0
+totalcost album: 1
+availability: 3.0
+purchase made successfully with a cost of 5.0
+totalcost album: 2
+availability: 2.0
+purchase made successfully with a cost of 5.0
+totalcost album: 3
+availability: 1.0
+purchase made successfully with a cost of 5.0
+totalcost album: 4
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 4
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 4
+availability: 0.0
+Insufficient units to make your purchase
+totalcost album: 4
+availability: 0.0
+
+Buy 7 movies, all together, when you have 4
+
+insufficient units to make your purchase
+
+Buy 4 movies, all together, when you have 4
+
+purchase made successfully with a cost of 20.0
+
+Rent test
+
+
+Games: Rent 7 times but you have 5 only  
+
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 1
+availability: 4.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 2
+availability: 3.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 3
+availability: 2.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 4
+availability: 1.0
+Purchase made successfully with a cost of 0.7000000000000001
+totalcost game: 5
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 5
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 5
+availability: 0.0
+
+Albums: Rent 7 times but you have 6 only 
+
+purchase made successfully with a cost of 28.0
+totalcost game: 1
+availability: 5.0
+purchase made successfully with a cost of 28.0
+totalcost game: 2
+availability: 4.0
+purchase made successfully with a cost of 28.0
+totalcost game: 3
+availability: 3.0
+purchase made successfully with a cost of 28.0
+totalcost game: 4
+availability: 2.0
+purchase made successfully with a cost of 28.0
+totalcost game: 5
+availability: 1.0
+purchase made successfully with a cost of 28.0
+totalcost game: 6
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 6
+availability: 0.0
+
+Movies: Rent 7 times but you have 4 only 
+
+purchase made successfully with a cost of 0.2
+totalcost game: 1
+availability: 3.0
+purchase made successfully with a cost of 0.2
+totalcost game: 2
+availability: 2.0
+purchase made successfully with a cost of 0.2
+totalcost game: 3
+availability: 1.0
+purchase made successfully with a cost of 0.2
+totalcost game: 4
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 4
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 4
+availability: 0.0
+insufficient units to perform renting
+totalcost game: 4
+availability: 0.0

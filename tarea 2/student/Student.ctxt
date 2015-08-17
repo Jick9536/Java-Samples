@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=Name\ surname
+comment0.target=Student(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ student\n
+comment1.params=
+comment1.target=void\ start_best_student()
+comment1.text=\n\ Constructor\ for\ best\ student\ data\n
+comment2.params=
+comment2.target=java.lang.String\ getname()
+comment2.text=\n\ getname\ obtain\ name\ of\ the\ student\n\ \n\ @return\ name\ of\ the\ student\ \n
+comment3.params=
+comment3.target=java.lang.String\ getsurname()
+comment3.text=\n\ getsurname\ obtain\ surname\ of\ the\ student\n\ \n\ @return\ surname\ of\ the\ student\ \n
+comment4.params=
+comment4.target=float\ getAverage()
+comment4.text=\n\ getAverage\ obtain\ average\ of\ the\ student\n\ \n\ @return\ average\ of\ the\ student\ \n
+comment5.params=x\ y\ z
+comment5.target=void\ setAverage(int,\ int,\ int)
+comment5.text=\n\ Calculates\ the\ average\ of\ one\ student\n\ \n\ @param\ \ x,y,z\ grades\ of\ the\ students\n\ \n
+comment6.params=
+comment6.target=void\ Average()
+comment6.text=\n\ Method\ that\ thorws\ one\ exception\ is\ the\ student\ failed\ the\ exam\n
+comment7.params=f
+comment7.target=void\ writeFailed(java.util.ArrayList)
+comment7.text=\n\ Write\ a\ .txt\ of\ the\ name\ and\ average\ of\ the\ students\n\ \n\ @param\ ArrayList<Student>\ f\ data\ of\ the\ students\n
+numComments=8
